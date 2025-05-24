@@ -5,5 +5,5 @@ describe('Exemplo de Teste',function(){
 
 });
 
-assert.strictEqual(1+1,6);
+assert.strictEqual(1+1,14);
 });
